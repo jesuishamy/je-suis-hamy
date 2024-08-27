@@ -108,9 +108,18 @@ nav li a:hover{
     margin: 25px;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+html{
+  font-size: 16px;
+}
 
 body{
+    width:100%;
     font-family: 'sf_arch_rivalregular';
 }
 
