@@ -277,6 +277,10 @@ iframe{
   border:solid 3px;
 }
 
+footer img{
+  width: 50px;
+  margin-top: 20px;
+
 @media screen and (max-width:768px){
 
 
