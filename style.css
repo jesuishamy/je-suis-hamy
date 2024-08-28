@@ -138,9 +138,7 @@ footer{
   margin-top: 10%;
 }
 
-footer img{
-  width:3vw;
-}
+
 
 h1{
   text-align: center;
@@ -279,7 +277,7 @@ iframe{
 
 footer img{
   width: 50px;
-  margin-top: 20px;
+  margin-top: 20px;}
 
 @media screen and (max-width:768px){
 
